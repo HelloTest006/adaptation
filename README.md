@@ -18,7 +18,7 @@ Taking damage causes V1 to adapt:
 - Damage resistance scaling
 - Damage boost scaling
 - Mahoraga-inspired adaptation wheel
-
+- Speed adaptation was discontinued after V1 became faster than the game could process speed and movement
 ---
 
 ## Installation
